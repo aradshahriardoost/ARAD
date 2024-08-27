@@ -67,17 +67,6 @@ t.end_fill()
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 t.penup()
 t.goto(random.randint(-200,200),random.randint(-200,200))
 t.pendown()
